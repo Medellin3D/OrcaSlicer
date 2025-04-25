@@ -279,6 +279,10 @@
             "sub_path": "machine/Artillery Genius 0.4 nozzle.json"
         },
         {
+            "name": "Artillery Genius 0.6 nozzle",
+            "sub_path": "machine/Artillery Genius 0.6 nozzle.json"
+        },
+        {
             "name": "Artillery Sidewinder X2 0.4 nozzle",
             "sub_path": "machine/Artillery Sidewinder X2 0.4 nozzle.json"
         },
